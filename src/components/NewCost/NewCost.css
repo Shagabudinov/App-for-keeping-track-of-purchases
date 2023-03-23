@@ -11,6 +11,7 @@
   
   .new-cost button {
     font: inherit;
+    font-weight: bold;
     cursor: pointer;
     padding: 1rem 2rem;
     border: 1px solid #2a5b84;
