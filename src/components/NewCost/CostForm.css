@@ -8,8 +8,9 @@
   
   .new-cost__control label {
     font-weight: bold;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.7rem;
     display: block;
+    color: #ffffff
   }
   
   .new-cost__control input {
@@ -24,3 +25,4 @@
   .new-cost__actions {
     text-align: left;
   }
+
