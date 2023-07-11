@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/App-for-keeping-track-of-purchases/static/css/main.267347ac.css",
+    "main.js": "/App-for-keeping-track-of-purchases/static/js/main.f54842b0.js",
+    "index.html": "/App-for-keeping-track-of-purchases/index.html",
+    "main.267347ac.css.map": "/App-for-keeping-track-of-purchases/static/css/main.267347ac.css.map",
+    "main.f54842b0.js.map": "/App-for-keeping-track-of-purchases/static/js/main.f54842b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.267347ac.css",
+    "static/js/main.f54842b0.js"
+  ]
+}
